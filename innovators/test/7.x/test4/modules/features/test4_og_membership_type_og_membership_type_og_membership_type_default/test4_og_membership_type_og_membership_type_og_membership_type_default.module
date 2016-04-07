@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the test4 Default og membership type feature.
+ */
+
+include_once 'test4_og_membership_type_og_membership_type_og_membership_type_default.features.inc';
