@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the aplaything sdfsdfsdfsdf feature.
+ */
+
+include_once 'aplaything_node_sdfsdfsdfsdf.features.inc';

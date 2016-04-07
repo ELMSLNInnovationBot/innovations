@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the aplaything Views feature.
+ */
+
+include_once 'aplaything_views.features.inc';

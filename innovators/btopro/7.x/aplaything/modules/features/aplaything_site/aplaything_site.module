@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the aplaything Site feature.
+ */
+
+include_once 'aplaything_site.features.inc';

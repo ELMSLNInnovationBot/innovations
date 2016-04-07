@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the aplaything Course Section feature.
+ */
+
+include_once 'aplaything_node_section.features.inc';

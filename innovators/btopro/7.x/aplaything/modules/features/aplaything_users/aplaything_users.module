@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the aplaything Users feature.
+ */
+
+include_once 'aplaything_users.features.inc';

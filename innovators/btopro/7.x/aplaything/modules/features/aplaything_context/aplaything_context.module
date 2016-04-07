@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the aplaything Context feature.
+ */
+
+include_once 'aplaything_context.features.inc';

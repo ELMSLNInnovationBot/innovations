@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the aplaything Media feature.
+ */
+
+include_once 'aplaything_media.features.inc';
