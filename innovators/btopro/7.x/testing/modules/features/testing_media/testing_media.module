@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the testing Media feature.
+ */
+
+include_once 'testing_media.features.inc';
