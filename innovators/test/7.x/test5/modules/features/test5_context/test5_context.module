@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the test5 Context feature.
+ */
+
+include_once 'test5_context.features.inc';

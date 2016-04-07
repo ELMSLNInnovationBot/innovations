@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the test5 Site feature.
+ */
+
+include_once 'test5_site.features.inc';
